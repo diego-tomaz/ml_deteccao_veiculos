@@ -1,4 +1,4 @@
-# Detecção de veículos
+# Detecção de veículos <a href='https://homepages.dcc.ufmg.br/~adrianov/ml/pres.pdf' target="_blank"><img alt='bookstack' src='https://img.shields.io/badge/Aprendizado_de Máquina DCC/UFMG-100000?style=plastic&logo=bookstack&logoColor=FFFFFF&labelColor=5C5C5C&color=5C5C5C'/></a> <a href='https://www.gti.ssr.upm.es/data/Vehicle_database.html' target="_blank"><img alt='semanticscholar' src='https://img.shields.io/badge/Universidade_Politécnica de Madrid-100000?style=plastic&logo=semanticscholar&logoColor=white&labelColor=7C0000&color=7C0000'/></a>
 
 ### UFMG <br> 2023.1 <br> Machine Learning
 ***
