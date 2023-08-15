@@ -9,7 +9,7 @@ Este trabalho visa criar um **`sistema de detecção de veículos`** (**traseira
 
 Nesse sentido, podemos exemplificar esse trecho da `Rua Rio de Janeiro`, no centro de Belo Horizonte, em que habitualmente há fluxo apenas de pedestres mas que, em um cenário hipotético, poderia haver fiscalização automática do trânsito de veículos.
 
-![image](https://github.com/diego-tomaz/ml_deteccao_veiculos/assets/54359164/4509c8b6-5efa-49af-9993-e38d41bd1499)
+![image](https://github.com/diego-tomaz/ml_deteccao_veiculos/assets/54359164/2c545d54-3e44-4147-acd9-9a6ef446fe5c)
 <a href="https://joaodiniz.wordpress.com/2009/12/26/rua-rio-de-janeiro-praca-sete-de-setembro/">Fonte da imagem</a>
 
 Para tal, utilizei o dataset disponibilizado pela Universidade Politécnica de Madrid (https://www.gti.ssr.upm.es/data/Vehicle_database.html). O algoritmo escolhido para atingir o objetivo desse projeto é baseado em deep learning e, mais especificamente, emprega uma arquitetura de **`Rede Neural Convolucional`**.
